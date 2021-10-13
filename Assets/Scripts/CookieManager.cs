@@ -22,8 +22,8 @@ public class CookieManager : MonoBehaviour
 
     public void Start()
     {
-        UpdateCookieText();
         UpdateUpgradeText();
+        UpdateCookieText();
     }
 
     public void AddCookie()
